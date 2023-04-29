@@ -1,0 +1,301 @@
+        body {
+            font-family: Arial, sans-serif;
+
+        }
+        
+        h1 {
+            font-size: 36px;
+            text-align: center;
+        }
+        
+        h2 {
+            font-size: 24px;
+            color: rgb(90, 28, 28);
+        }
+        
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+           
+        }
+        
+     
+        .section {
+            background-color: #f7f7f7;
+            border-radius: 10px;
+        }
+        
+        .section h2 {
+            font-weight: bold;
+            background-color: pink;
+        }
+        
+        .section ul {
+            margin-left: -20px;
+            padding: 10px 20px;
+            border-radius: 0 10px 10px 0;
+            background-color: #eee;
+        }
+        
+        .section li {
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        
+        .section p.title {
+            font-weight: bold;
+        }
+        
+        .section p.date {
+            font-style: italic;
+        }
+        
+        
+        .section p.description {
+            margin-left: 20px;
+        }
+        
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        
+        .skills li {
+            margin-bottom: 10px;
+            padding: 5px 10px;
+            background-color: pink;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+
+
+@media screen and (max-width: 576px){
+                       body {
+            font-family: Arial, sans-serif;
+
+        }
+        
+        h1 {
+            font-size: 36px;
+            text-align: center;
+        }
+        
+        h2 {
+            font-size: 24px;
+            color: rgb(90, 28, 28);
+        }
+        
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+           
+        }
+        
+     
+        .section {
+            background-color: #f7f7f7;
+            border-radius: 10px;
+        }
+        
+        .section h2 {
+            font-weight: bold;
+            background-color: pink;
+        }
+        
+        .section ul {
+            margin-left: -20px;
+            padding: 10px 20px;
+            border-radius: 0 10px 10px 0;
+            background-color: #eee;
+        }
+        
+        .section li {
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        
+        .section p.title {
+            font-weight: bold;
+        }
+        
+        .section p.date {
+            font-style: italic;
+        }
+        
+        
+        .section p.description {
+            margin-left: 20px;
+        }
+        
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        
+        .skills li {
+            margin-bottom: 10px;
+            padding: 5px 10px;
+            background-color: pink;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+
+
+
+
+} 
+
+@media screen and (max-width: 768px){
+                body {
+            font-family: Arial, sans-serif;
+
+        }
+        
+        h1 {
+            font-size: 36px;
+            text-align: center;
+        }
+        
+        h2 {
+            font-size: 24px;
+            color: rgb(90, 28, 28);
+        }
+        
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+           
+        }
+        
+     
+        .section {
+            background-color: #f7f7f7;
+            border-radius: 10px;
+        }
+        
+        .section h2 {
+            font-weight: bold;
+            background-color: pink;
+        }
+        
+        .section ul {
+            margin-left: -20px;
+            padding: 10px 20px;
+            border-radius: 0 10px 10px 0;
+            background-color: #eee;
+        }
+        
+        .section li {
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        
+        .section p.title {
+            font-weight: bold;
+        }
+        
+        .section p.date {
+            font-style: italic;
+        }
+        
+        
+        .section p.description {
+            margin-left: 20px;
+        }
+        
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        
+        .skills li {
+            margin-bottom: 10px;
+            padding: 5px 10px;
+            background-color: pink;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+} 
+
+@media screen and (max-width: 992px){
+        body {
+            font-family: Arial, sans-serif;
+
+        }
+        
+        h1 {
+            font-size: 36px;
+            text-align: center;
+        }
+        
+        h2 {
+            font-size: 24px;
+            color: rgb(90, 28, 28);
+        }
+        
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+           
+        }
+        
+     
+        .section {
+            background-color: #f7f7f7;
+            border-radius: 10px;
+        }
+        
+        .section h2 {
+            font-weight: bold;
+            background-color: pink;
+        }
+        
+        .section ul {
+            margin-left: -20px;
+            padding: 10px 20px;
+            border-radius: 0 10px 10px 0;
+            background-color: #eee;
+        }
+        
+        .section li {
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        
+        .section p.title {
+            font-weight: bold;
+        }
+        
+        .section p.date {
+            font-style: italic;
+        }
+        
+        
+        .section p.description {
+            margin-left: 20px;
+        }
+        
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        
+        .skills li {
+            margin-bottom: 10px;
+            padding: 5px 10px;
+            background-color: pink;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+
+
+
+} 
